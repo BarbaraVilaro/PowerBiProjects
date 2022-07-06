@@ -1,2 +1,2 @@
-# PowerBiProjects
+# PowerBi-Projects
 Projects Power Bi
